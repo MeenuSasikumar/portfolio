@@ -10,7 +10,7 @@ const CONFIG = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO Here
   // ----------------------------------------------------------
-  name: "Merin Rose Tom",
+  name: "Meeenu",
   title: "Senior Software Engineer | Backend Developer",
   profileImage: "profile.png", // Place your photo in this folder and update the filename
 
