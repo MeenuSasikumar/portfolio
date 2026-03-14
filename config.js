@@ -10,7 +10,7 @@ const CONFIG = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO Here
   // ----------------------------------------------------------
-  name: "Meeenu",
+  name: "Meenu",
   title: "Backend Engineer",
   profileImage: "profile.png", // Place your photo in this folder and update the filename
 
@@ -26,67 +26,75 @@ const CONFIG = {
   // linkedin, github, leetcode, globe (for websites), medium
   // ----------------------------------------------------------
   socialLinks: [
-    { icon: "linkedin", label: "LinkedIn", url: "https://linkedin.com/in/merin-rose-tom" },
-    { icon: "github", label: "GitHub", url: "https://github.com/MerinRose123" },
-    { icon: "leetcode", label: "LeetCode", url: "https://leetcode.com/u/merin_tom" },
-    { icon: "medium", label: "Medium", url: "https://merin-rose-tom.medium.com" },
+    { icon: "linkedin", label: "LinkedIn", url: "https://www.linkedin.com/in/meenu-s-85b740169" },
+    { icon: "github", label: "GitHub", url: "https://github.com/MeenuSasikumar" },
   ],
 
   // ----------------------------------------------------------
   // 📝 SUMMARY / ABOUT
   // ----------------------------------------------------------
   summary:
-    "Senior Application Engineer with 6+ years of experience in backend development, cloud automation, and modernizing large-scale enterprise systems. Skilled in Python, Java, OCI, and CI/CD pipeline engineering with a strong focus on performance optimization and production reliability.",
-
+    "Results-driven Backend Development with 5.4 years of experience in the IT industry, specializing in backend development, system integration, testing, and production support. Strong expertise in .NET technologies and database management. Proven ability to collaborate with cross-functional teams, consult clients, and deliver high-quality software solutions aligned with business goals.",
   // ----------------------------------------------------------
   // 💼 WORK EXPERIENCE
   // ----------------------------------------------------------
   experience: [
     {
-      company: "Oracle",
-      location: "Thiruvananthapuram, India",
-      overallDates: "December 2021 – Present",
+      company: "Tata Consultancy Services",
+      Project: "Nielsen - Core Scarborough",
+      location: "Kochi, India",
+      overallDates: "July 2022 - Present",
       roles: [
         {
-          title: "Senior Software Engineer | Python, Java, Cloud",
-          dates: "September 2024 – Present",
+          title: "Backend Engineer | VB.Net, C#,MSSQL",
           bullets: [
-            "Enhanced and maintained core features of PeopleSoft Cloud Manager, a critical tool for streamlining the deployment and maintenance of PeopleSoft environments on OCI, serving over 200 customers globally.",
-            "Facilitated the integration of Cloud Manager with various Oracle Cloud services, troubleshooting complex customer issues to boost application performance and user experience.",
-            "Collaborated with QA and tools teams to streamline test automation workflows, creating automation scripts in shell to improve product quality and development efficiency by 5%.",
+            "Improved SQL performance tuning by 30% with optimized indexing and queries.",
+            "Identified and fixed software defects, creating test plans, ensuring quality through code reviews.",
+            "Worked on complete development life cycle (SDLC), from architecture, coding, development, maintenance, trouble shooting to quality analysis and debugging under guid",
+            "Utilized Agile methodologies to manage project timelines and improve team collaboration.",
+            "Developed and enhanced application features using Vb.net core based on user needs and business requirements.",
+            "Executed user needs and designing software or customizing existing systems for efficiency.",
+            "Implemented CI/CD pipelines using GitLab to automate build, testing, and deployment processes.",
+            "Resolved 40 plus production issues improving application scalability.",
+            "Automated manual database query operations to improve efficiency and accuracy.",
+            "Analyzed and solved production issues through effective troubleshooting and debugging.",
+            "Designed and implemented backend components for an online shopping platform using ASP.NET MVC and SQL Server, ensuring efficient data handling and smooth user experience.",
+            "Collaborated closely with clients and internal teams to discuss development strategies and proposals.",
+            "Implemented backup, recovery and high availability strategies.",
+            "Ensured DB security, access control, user management and support cloud DB deployments.",
+            "Monitor system health and performance matrics",
+            "Conducted functional, non-functional testing and documentation creation."
           ],
         },
         {
-          title: "Software Engineer II | Backend Developer",
-          dates: "December 2021 – August 2024",
+          title: "Assistant Systems Engineer | VB.Net, MSSQL,MySQL",
+          Project: "Nielsen - Core Scarborough",
+          dates: "May 2021 - June 2022",
           bullets: [
-            "Architected and implemented innovative cloud solutions on the Oracle Cloud platform using Java, Python, and PeopleCode, and modernized legacy systems.",
-            "Managed the full lifecycle of custom image creation and build processes for the Cloud Manager, ensuring consistent, efficient, and reliable environment provisioning.",
-            "Integrated third-party solutions, including OpenSearch and Cobol, into existing PeopleSoft applications to ensure seamless data flow and enhanced functionality.",
+            "Worked on Production support activities like database patch up.",
+            "Conducted functional, non-functional testing and document creation.",
+            "Established Technical documentation and write clear reports.",
+            "Created and maintaining records of systems and processes.",
+            "Assisted in coding, testing and developing new features or applications.",
+            "Ensured software is up-to-date and running smoothly, including configurations and upgrades.",
+            "Discovered, examined and addressed technical and database issues and bugs."
           ],
         },
       ],
     },
     {
-      company: "InApp Information Technologies",
+      company: "Quest Innovative solutions",
+      project: "CineReserve",
       location: "Thiruvananthapuram, India",
-      overallDates: "July 2019 – November 2021",
+      overallDates: "Dec 2019 - July 2020",
       roles: [
         {
-          title: "Software Engineer | Full Stack Developer",
-          dates: "July 2020 – November 2021",
+          title: "Java-Full Stack Developer",
           bullets: [
-            "Created a Python-based machine learning system to automatically process digital documents and detect piracy levels, serving as a core component of the Gordian project.",
-            "Contributed to the back-end architecture design using Django and Flask, including database modeling with PostgreSQL and asynchronous task management with Celery.",
-            "Constructed a responsive front-end using the Angular framework and JavaScript, creating components for data visualization, secure authentication, and robust error handling.",
-          ],
-        },
-        {
-          title: "Programmer Trainee | Python Programmer",
-          dates: "July 2019 – June 2020",
-          bullets: [
-            "Managed the full software development lifecycle from client interaction and customer support to code optimization, database design, and debugging.",
-            "Gained hands-on experience with Python and frameworks like Django and Flask while contributing to the development of internal systems.",
+            "Developed a movie booking system with user and admin panels using Core Java.",
+            "Enforced movie listing, ticket booking, cancellation and admin control.",
+            "Managed database design, dynamic content, handled validation and authentication.",
+            "Created and tested functionality of websites."
           ],
         },
       ],
