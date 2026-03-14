@@ -1,0 +1,154 @@
+{
+  "personalInfo": {
+    "name": "MEENU S",
+    "title": "Backend Engineer",
+    "email": "meenuvineesh1014@gmail.com",
+    "phone": "+91 7306585716",
+    "address": "Varnamayooram, Kilimanoor, Trivandrum, Kerala",
+    "summary": "Results-driven Backend Development with 5.4 years of experience in the IT industry, specializing in backend development, system integration, testing, and production support. Strong expertise in .NET technologies and database management. Proven ability to collaborate with cross-functional teams, consult clients, and deliver high-quality software solutions aligned with business goals."
+  },
+  "workExperience": [
+    {
+      "company": "Tata Consultancy Services",
+      "project": "Nielsen - Core Scarborough",
+      "role": "Backend Engineer",
+      "dates": "July 2022 - Present",
+      "responsibilities": [
+        "Improved SQL performance tuning by 30% with optimized indexing and queries.",
+        "Identified and fixed software defects, creating test plans, ensuring quality through code reviews.",
+        "Worked on complete development life cycle (SDLC), from architecture, coding, development, maintenance, trouble shooting to quality analysis and debugging under guid",
+        "Utilized Agile methodologies to manage project timelines and improve team collaboration.",
+        "Developed and enhanced application features using Vb.net core based on user needs and business requirements.",
+        "Executed user needs and designing software or customizing existing systems for efficiency.",
+        "Implemented CI/CD pipelines using GitLab to automate build, testing, and deployment processes.",
+        "Resolved 40 plus production issues improving application scalability.",
+        "Automated manual database query operations to improve efficiency and accuracy.",
+        "Analyzed and solved production issues through effective troubleshooting and debugging.",
+        "Designed and implemented backend components for an online shopping platform using ASP.NET MVC and SQL Server, ensuring efficient data handling and smooth user experience.",
+        "Collaborated closely with clients and internal teams to discuss development strategies and proposals.",
+        "Implemented backup, recovery and high availability strategies.",
+        "Ensured DB security, access control, user management and support cloud DB deployments.",
+        "Monitor system health and performance matrics",
+        "Conducted functional, non-functional testing and documentation creation."
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "role": "Assistant Systems Engineer",
+      "dates": "May 2021 - June 2022",
+      "responsibilities": [
+        "Worked on Production support activities like database patch up.",
+        "Conducted functional, non-functional testing and document creation.",
+        "Established Technical documentation and write clear reports.",
+        "Created and maintaining records of systems and processes.",
+        "Assisted in coding, testing and developing new features or applications.",
+        "Ensured software is up-to-date and running smoothly, including configurations and upgrades.",
+        "Discovered, examined and addressed technical and database issues and bugs."
+      ]
+    },
+    {
+      "company": "Quest Innovative solutions",
+      "project": "CineReserve",
+      "role": "Java-Full Stack Developer",
+      "dates": "Dec 2019 - July 2020",
+      "responsibilities": [
+        "Developed a movie booking system with user and admin panels using Core Java.",
+        "Enforced movie listing, ticket booking, cancellation and admin control.",
+        "Managed database design, dynamic content, handled validation and authentication.",
+        "Created and tested functionality of websites."
+      ]
+    }
+  ],
+  "skills": {
+    "programmingLanguages": [
+      "VB.NET",
+      "C#",
+      "VBA",
+      "Java"
+    ],
+    "databases": [
+      "MS SQL Server",
+      "MySQL",
+      "NoSQL",
+      "MongoDB",
+      "Oracle"
+    ],
+    "frontendTechnologies": [
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "JavaScript",
+      "ASP.NET MVC"
+    ],
+    "toolsAndCloud": [
+      "GitLab",
+      "Jira",
+      "Confluence",
+      "CrystalReports",
+      "AWS cloud",
+      "Git"
+    ],
+    "diagramming": [
+      "draw.io"
+    ],
+    "frameworksAndPlatforms": [
+      ".NET",
+      "CI/CD Pipeline"
+    ],
+    "apis": [
+      "REST API"
+    ],
+    "microsoftOffice": [
+      "Word",
+      "Power point",
+      "Excel",
+      "Outlook"
+    ],
+    "softSkills": [
+      "Team work",
+      "Client-face Consulting",
+      "Communication",
+      "Analytical Thinking",
+      "Trouble shooting",
+      "Problem Solving"
+    ],
+    "otherSkills": [
+      "Knowledge in ETL",
+      "ERP",
+      "Entity framework",
+      "microservices"
+    ]
+  },
+  "rewardsAndCertifications": [
+    "Service and Commitment Award",
+    "Appreciation - Continuous Feedback Star Certificate",
+    "Certified Workshop on ChatGPT and AI in Microsoft Office - Skill Nation"
+  ],
+  "education": [
+    {
+      "degree": "B-Tech",
+      "major": "Information Technology",
+      "institution": "GOVT Engineering College Barton Hill, Trivandrum",
+      "dates": "07/2015 - 06/2019",
+      "cgpa": "7.31"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Professional"
+    },
+    {
+      "language": "Malayalam",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Tamil",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "Intermediate"
+    }
+  ]
+}
