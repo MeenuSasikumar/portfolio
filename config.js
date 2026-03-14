@@ -106,45 +106,23 @@ const CONFIG = {
   // Group your skills by category
   // ----------------------------------------------------------
   skills: [
-    { category: "Programming", items: ["Python", "Java", "JavaScript", "Shell Script"] },
-    { category: "Frameworks", items: ["Django", "Flask", "Angular"] },
-    { category: "Databases", items: ["Oracle", "PostgreSQL", "MySQL", "MongoDB"] },
-    { category: "Cloud", items: ["Oracle Cloud Infrastructure (OCI)"] },
-    { category: "DevOps & Tools", items: ["Jenkins", "Docker", "Git", "Puppet", "Nginx", "Terraform"] },
-    { category: "System Design", items: ["Microservices", "REST APIs", "Architecture", "CI/CD", "Unit Testing"] },
-    { category: "Other", items: ["Data Structures & Algorithms", "Third-Party Integration", "Debugging", "Client Interaction"] },
+    { category: "Programming", items: ["VB.NET", "C#", "VBA", "Java"] },
+    { category: "Frameworks", items: [".Net", "Entity framework"] },
+    { category: "frontend Technologies", items: ["HTML5", "CSS3", "Bootstrap", "JavaScript", "ASP.Net MVC"] },
+    { category: "Databases", items: ["Oracle", "PostgreSQL", "MySQL", "MongoDB", "MSSQL"] },
+    { category: "Cloud", items: ["AWS"] },
+    { category: "MicrosoftOffice", items: ["Word", "Power point", "Excel", "Outlook"] },
+    { category: "DevOps & Tools", items: ["GitLab", "Jira", "Confluence", "CrystalReports", "Git"] },
+    { category: "System Design", items: ["REST APIs", "Architecture", "CI/CD", "Unit Testing"] },
+    { category: "Soft Skills", items: ["Team work", "Client-face Consulting", "Communication", "Analytical Thinking", "Trouble shooting", "Problem Solving"] },
+    { category: "Other", items: ["Knowledge in ETL", "ERP", "microservices"] },
   ],
 
   // ----------------------------------------------------------
   // 🚀 PROJECTS
   // ----------------------------------------------------------
-  projects: [
-    {
-      name: "PeopleSoft Cloud Manager",
-      dates: "2021 – Present",
-      bullets: [
-        "Engineered common process automation for resource cleanup and prerequisite installation, resulting in a 10% reduction in developer time and improved performance optimization.",
-        "Architected and built a secure password management feature using OCI Vault, centralizing password storage and rotation, resulting in a 30% security enhancement.",
-        "Designed and deployed an internal CI/CD pipeline using Jenkins to automate builds and testing framework, accelerating build times by 25% and elevating code quality by 30%.",
-      ],
-    },
-    {
-      name: "Gordian – Piracy Detection System",
-      dates: "2020 – 2021",
-      bullets: [
-        "Created an automated PDF report generation system that outputs piracy detection results, boosting user experience by 20% through clear and comprehensive reports.",
-        "Analyzed and visualized over 50,000 data points using Python libraries like Pandas, NumPy, and Matplotlib to derive actionable insights into piracy trends.",
-      ],
-    },
-    {
-      name: "EventOPS – Internal Event Management System",
-      dates: "2019 – 2021",
-      bullets: [
-        "Constructed and released backend microservices architecture utilizing Django and Flask, optimizing system efficiency by 15% through optimized code and scalable architecture.",
-        "Designed and established a comprehensive unit testing framework using Django multi-tenancy architecture, increasing unit test coverage by 30%.",
-      ],
-    },
-  ],
+
+
 
   // ----------------------------------------------------------
   // 🎓 EDUCATION
@@ -155,11 +133,7 @@ const CONFIG = {
       institution: "GEC Barton Hill",
       location: "Thiruvananthapuram, India",
       dates: "2015 – 2019",
-      gpa: "8.93",
-      highlights: [
-        "University Rank 3 – Kerala Technological University (KTU)",
-        "College Class Representative / Leader (2018 – 2019)",
-      ],
+      gpa: "7.31",
     },
   ],
 
@@ -168,24 +142,19 @@ const CONFIG = {
   // ----------------------------------------------------------
   achievements: [
     {
-      title: "Appreciation for Excellent Performance",
-      dates: "June 2021 – November 2021",
-      description: "Issued by CEO of InApp for boosting efficiency of EventOPS by 20%.",
+      title: "Service and Commitment Award",
+      dates: "June 2022 – November 2023",
+      description: "Issued by Tata Consultancy Services",
     },
     {
-      title: "University Women's Chess Team Captain & Champion",
-      dates: "July 2017 – July 2018",
-      description:
-        "Captained a 5-member team and won the university women's chess championship, demonstrating leadership and strategic thinking.",
+      title: "Appreciation - Continuous Feedback Star Certificate",
+      dates: "May 2024-Dec 2024",
+      description: "Issued by Tata Consultancy Services"
     },
+
   ],
 
   // ----------------------------------------------------------
   // 📜 CERTIFICATIONS
   // ----------------------------------------------------------
-  certifications: [
-    { name: "OCI 2024 Generative AI Certified Professional", issuer: "Oracle", date: "June 2024" },
-    { name: "HackerRank Python Certificate", issuer: "HackerRank", date: "May 2024" },
-    { name: "OCI Foundations 2021 Certified Associate", issuer: "Oracle", date: "December 2021" },
-  ],
 };
