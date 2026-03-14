@@ -11,14 +11,14 @@ const CONFIG = {
   // 🧑 PERSONAL INFO Here
   // ----------------------------------------------------------
   name: "Meeenu",
-  title: "Senior Software Engineer | Backend Developer",
+  title: "Backend Engineer",
   profileImage: "profile.png", // Place your photo in this folder and update the filename
 
   // ----------------------------------------------------------
   // 📬 CONTACT
   // ----------------------------------------------------------
-  email: "merin.pottananickal@gmail.com",
-  address: "Kazhakkoottam, Thiruvananthapuram, Kerala, India",
+  email: "meenuvineesh1014@gmail.com",
+  address: "Kilimanoor, Thiruvananthapuram, Kerala, India",
 
   // ----------------------------------------------------------
   // 🔗 SOCIAL LINKS
