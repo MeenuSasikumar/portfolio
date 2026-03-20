@@ -118,16 +118,12 @@ const CONFIG = {
     { category: "Other", items: ["Knowledge in ETL", "ERP", "microservices"] },
   ],
 
-  // ----------------------------------------------------------
-  // 🚀 PROJECTS
-  // ----------------------------------------------------------
-
 
 
   // ----------------------------------------------------------
   // 🎓 EDUCATION
   // ----------------------------------------------------------
-  education: [
+  Education: [
     {
       degree: "Bachelor of Technology, Information Technology",
       institution: "GEC Barton Hill",
@@ -144,17 +140,12 @@ const CONFIG = {
     {
       title: "Service and Commitment Award",
       dates: "June 2022 – November 2023",
-      description: "Issued by Tata Consultancy Services",
-    },
-    {
-      title: "Appreciation - Continuous Feedback Star Certificate",
-      dates: "May 2024-Dec 2024",
       description: "Issued by Tata Consultancy Services"
     },
-
+    {
+      title: "Appreciation – Continuous Feedback Star Certificate",
+      dates: "May 2024 – December 2024",
+      description: "Issued by Tata Consultancy Services"
+    },
   ],
-
-  // ----------------------------------------------------------
-  // 📜 CERTIFICATIONS
-  // ----------------------------------------------------------
 };
